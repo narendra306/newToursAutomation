@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="newTours.Automation.BrokenLinksOfApp">
+      <class name="newTours.Automation.FlightBookingApp">
         <methods>
-          <include name="BrokenLinks"/>
+          <include name="FlightBooking"/>
         </methods>
-      </class> <!-- newTours.Automation.BrokenLinksOfApp -->
+      </class> <!-- newTours.Automation.FlightBookingApp -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
